@@ -1,0 +1,4 @@
+h1 = 0feet
+h2 = 2inches
+h3 = 9centimeters
+kEiffelTower = 312.1meters
